@@ -1,0 +1,6 @@
+*.aotdata
+*.s
+bin
+obj
+*.binlog
+.vs
